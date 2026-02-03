@@ -205,3 +205,49 @@ Ready for authentication with `gh auth login` to complete setup.
 
 ### Status
 Ready for authentication with `gh auth login` to complete setup.
+## Agency Profile: GenAI Digital NZ - February 3, 2026
+
+### Company Overview
+GenAI Digital NZ is a specialized AI solutions company founded by Michael Netto, operating as a one-man agency specializing in Generative AI implementations for New Zealand businesses. The company focuses on bridging Silicon Valley innovation with Kiwi pragmatism, offering Silicon Valley capability with Kiwi reliability.
+
+### Founder & Chief Engineer
+- **Name**: Michael Netto
+- **Location**: Auckland, New Zealand
+- **Experience**: 10+ Years Engineering
+- **Deployments**: 6 Active Deployments
+- **Background**: Software engineer turned AI architect
+
+### Core Services
+1. VoiceSim.Ai - Real-time Conversation Agents
+2. DigitalRecon.Ai - Sector Surveillance and Lead Generation
+3. TrafficShift.Ai - Google-to-AI Transition Calculator
+4. Voice Simulator - Turn static pages into voice-activated Digital Employees
+
+### Strategic Objectives
+- Help Kiwi businesses survive the shift from Google to AI Assistants
+- Democratize AI technology for New Zealand businesses
+- Bridge Silicon Valley innovation with Kiwi pragmatism
+
+### Technical Infrastructure
+- Edge Network deployment capabilities
+- 12ms latency (NZ-AUCK region)
+- Agent swarm deployment system
+- Experimental AI protocols with Google Gemini integration
+- No-code approach for rapid deployment
+
+## Revenue Generation Strategy - February 3, 2026
+
+### Objective
+Establish an AI Employee whose mission is to generate revenue through legitimate, zero-investment, zero-inventory business models.
+
+### Business Models Under Consideration
+1. AI-Powered Content Creation Services
+2. Print-on-Demand Design Services
+3. Digital Product Sales
+4. Affiliate Marketing with AI-Generated Content
+5. Dropshipping with AI-Sourced Products
+
+### Authority Granted
+- Research, test, and validate business models autonomously
+- Handle 80-90% of the workload including market research, niche selection, product design, and marketing copy
+- Human-in-the-loop for high-level approvals, financial authentication, and payment gateway setup
