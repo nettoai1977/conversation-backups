@@ -10,7 +10,9 @@ Welcome to the mission control center for Netto.AI. This is your kanban-style ov
 - [x] **Agency Profile Analysis** - Complete comprehensive analysis of GenAI Digital NZ operations
 - [x] **Revenue Generation Initiation** - Launch AI Employee revenue model (Phase 1: Foundation)
 - [x] **God Agent Architecture** - Implemented orchestrator system with sub-agent spawning
-- [ ] **Intelligence Monitoring** - Execute daily cron tasks for OpenClaw updates, skills watch, and market research
+- [x] **Intelligence Monitoring** - Execute daily cron tasks for OpenClaw updates, skills watch, and market research
+- [ ] **MCP Server Implementation** - Deploy filesystem and GitHub MCP servers for enhanced capabilities
+- [ ] **AI Service Bureau Launch** - Begin implementation of AI-powered service offerings
 
 ## Backlog
 
