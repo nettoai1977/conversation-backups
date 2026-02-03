@@ -1,0 +1,122 @@
+{
+  "search": {
+    "name": "search",
+    "version": "v1.0.0",
+    "description": " Search",
+    "score": 0.423
+  },
+  "mcp-adapter": {
+    "name": "mcp-adapter",
+    "version": "v0.1.0",
+    "description": " mcp-adapter",
+    "score": 0.41
+  },
+  "notnative": {
+    "name": "notnative",
+    "version": "v1.0.0",
+    "description": " Notnative",
+    "score": 0.401
+  },
+  "ydc-ai-sdk-integration": {
+    "name": "ydc-ai-sdk-integration",
+    "version": "v1.0.0",
+    "description": " Integrate You.com web tools with Vercel AI SDK",
+    "score": 0.385
+  },
+  "agnxi-search-skill": {
+    "name": "agnxi-search-skill",
+    "version": "v1.0.0",
+    "description": " Agent Skills Search",
+    "score": 0.382
+  },
+  "perplexity": {
+    "name": "perplexity",
+    "version": "v1.0.0",
+    "description": " Perplexity",
+    "score": 0.369
+  },
+  "qveris": {
+    "name": "qveris",
+    "version": "v0.1.0",
+    "description": " Qveris",
+    "score": 0.368
+  },
+  "zhipu-mcp-tools": {
+    "name": "zhipu-mcp-tools",
+    "version": "v1.0.1",
+    "description": " zhipu-mcp-tools",
+    "score": 0.368
+  },
+  "apple-mail-search-safe": {
+    "name": "apple-mail-search-safe",
+    "version": "v4.0.0",
+    "description": " apple-mail-search-safe",
+    "score": 0.368
+  },
+  "qmd": {
+    "name": "qmd",
+    "version": "v1.0.0",
+    "description": " Qmd",
+    "score": 0.367
+  },
+  "meow-finder": {
+    "name": "meow-finder",
+    "version": "v1.0.0",
+    "description": " Meow Finder",
+    "score": 0.366
+  },
+  "clawchat": {
+    "name": "clawchat",
+    "version": "v1.0.2",
+    "description": " Deleted Skill",
+    "score": 0.362
+  },
+  "relationship-skills": {
+    "name": "relationship-skills",
+    "version": "v1.0.0",
+    "description": " Relationship Skills",
+    "score": 0.359
+  },
+  "searxng-local-search": {
+    "name": "searxng-local-search",
+    "version": "v0.1.0",
+    "description": " Searxng Web Search",
+    "score": 0.355
+  },
+  "qmd-local-search": {
+    "name": "qmd-local-search",
+    "version": "v1.0.0",
+    "description": " qmd Local Search",
+    "score": 0.354
+  },
+  "qmd-search": {
+    "name": "qmd-search",
+    "version": "v1.1.0",
+    "description": " qmd Search",
+    "score": 0.354
+  },
+  "azure-ai-agents-py": {
+    "name": "azure-ai-agents-py",
+    "version": "v0.1.0",
+    "description": " Azure Ai Agents Py - Microsoft Foundry",
+    "score": 0.353
+  },
+  "tavily-search": {
+    "name": "tavily-search",
+    "version": "v1.0.0",
+    "description": " Tavily Web Search",
+    "score": 0.353
+  },
+  "contextui": {
+    "name": "contextui",
+    "version": "v1.0.1",
+    "description": " ContextUI",
+    "score": 0.35
+  },
+  "searxng": {
+    "name": "searxng",
+    "version": "v1.0.3",
+    "description": " Searxng",
+    "score": 0.35
+  }
+}

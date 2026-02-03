@@ -1,0 +1,14 @@
+{
+  "github_repo": "michaelnetto/conversation-backups",
+  "github_token": "",
+  "firebase_config": {
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": ""
+  },
+  "sync_interval": 1800000,
+  "retention_days": 30
+}

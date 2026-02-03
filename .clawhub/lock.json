@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "skills": {
+    "calendar": {
+      "version": "1.0.0",
+      "installedAt": 1770061697636
+    },
+    "apple-calendar": {
+      "version": "1.0.0",
+      "installedAt": 1770061702754
+    },
+    "browser-agent-7w": {
+      "version": "1.0.0",
+      "installedAt": 1770061712774
+    },
+    "n8n-automation": {
+      "version": "0.1.0",
+      "installedAt": 1770061718315
+    },
+    "actual-budget": {
+      "version": "1.0.1",
+      "installedAt": 1770061723935
+    },
+    "tavily-search": {
+      "version": "1.0.0",
+      "installedAt": 1770063742538
+    },
+    "perplexity": {
+      "version": "1.0.0",
+      "installedAt": 1770063750338
+    },
+    "exa-web-search-free": {
+      "version": "1.0.1",
+      "installedAt": 1770063756763
+    },
+    "google-search": {
+      "version": "1.0.0",
+      "installedAt": 1770063762184
+    },
+    "kagi-search": {
+      "version": "1.2.0",
+      "installedAt": 1770063767824
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1770063772941
+    },
+    "postgres": {
+      "version": "1.1.0",
+      "installedAt": 1770063777863
+    },
+    "redis": {
+      "version": "1.1.0",
+      "installedAt": 1770063782974
+    },
+    "airtable": {
+      "version": "1.0.1",
+      "installedAt": 1770063787280
+    },
+    "supabase": {
+      "version": "1.0.0",
+      "installedAt": 1770063792401
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1770071762401
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "cron": {
+    "enabled": true,
+    "jobs": [
+      {
+        "name": "Active Hours Heartbeat",
+        "schedule": "*/30 8-21 * * *",
+        "payload": {
+          "kind": "systemEvent",
+          "text": "Heartbeat: What can I do right now to move our projects forward?"
+        },
+        "sessionTarget": "main",
+        "enabled": true
+      }
+    ]
+  }
+}

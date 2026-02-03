@@ -1,0 +1,61 @@
+{
+  "dashboard": {
+    "title": "OpenClaw Skills Dashboard",
+    "generated_at": "2026-02-03T08:50:15.928159",
+    "total_skills": 5,
+    "total_categories": 2
+  },
+  "categories": {
+    "productivity": {
+      "name": "Productivity & Calendar",
+      "emoji": "📅",
+      "description": "Tools for scheduling, calendar management, and time organization",
+      "skill_count": 3,
+      "skills": [
+        {
+          "name": "actual-budget",
+          "description": "Query and manage personal finances via the official Actual Budget Node.js API. Use for budget queries, transaction imports/exports, account management, categorization, rules, schedules, and bank sync with self-hosted Actual Budget instances.",
+          "directory": "skills/actual-budget",
+          "last_modified": "2026-02-03T08:48:43.932564",
+          "size_kb": 6
+        },
+        {
+          "name": "apple-calendar",
+          "description": "Apple Calendar.app integration for macOS. CRUD operations for events, search, and multi-calendar support.",
+          "directory": "skills/apple-calendar",
+          "last_modified": "2026-02-03T08:48:22.742068",
+          "size_kb": 1
+        },
+        {
+          "name": "calendar",
+          "description": "Calendar management and scheduling. Create events, manage meetings, and sync across calendar providers.",
+          "directory": "skills/calendar",
+          "last_modified": "2026-02-03T08:48:17.633418",
+          "size_kb": 0
+        }
+      ]
+    },
+    "web_automation": {
+      "name": "Web Automation & Browsers",
+      "emoji": "🌐",
+      "description": "Tools for web interaction, automation, and data extraction",
+      "skill_count": 2,
+      "skills": [
+        {
+          "name": "n8n-automation",
+          "description": "Manage n8n workflows from OpenClaw via the n8n REST API. Use when the user asks about n8n workflows, automations, executions, or wants to trigger, list, create, activate, or debug n8n workflows. Supports both self-hosted n8n and n8n Cloud instances.",
+          "directory": "skills/n8n-automation",
+          "last_modified": "2026-02-03T08:48:38.310292",
+          "size_kb": 3
+        },
+        {
+          "name": "browser-agent",
+          "description": "Use when you need Clawdbot to perform automated browser actions, including navigating websites, filling forms, extracting data, taking screenshots, and interacting with web pages.",
+          "directory": "skills/browser-agent-7w",
+          "last_modified": "2026-02-03T08:48:32.771045",
+          "size_kb": 4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "servers": {
+    "crawl4ai": {
+      "url": "http://localhost:3000",
+      "enabled": true,
+      "name": "Web Scraping Server",
+      "description": "Advanced web scraping with Crawl4AI",
+      "health_check_interval": 30
+    },
+    "notion": {
+      "url": "http://localhost:3001", 
+      "enabled": true,
+      "name": "Notion Integration Server",
+      "description": "Notion API integration for pages and databases",
+      "health_check_interval": 30
+    },
+    "email": {
+      "url": "http://localhost:3002",
+      "enabled": true,
+      "name": "Email Management Server", 
+      "description": "Email sending and reading capabilities",
+      "health_check_interval": 30
+    },
+    "business_ops": {
+      "url": "http://localhost:3003",
+      "enabled": true,
+      "name": "Business Operations Server",
+      "description": "Comprehensive business operations tools (email, calendar, contacts, tasks)",
+      "health_check_interval": 30
+    },
+    "research_analysis": {
+      "url": "http://localhost:3004",
+      "enabled": true,
+      "name": "Research & Analysis Server",
+      "description": "Web scraping, content analysis, data processing, and reporting tools",
+      "health_check_interval": 30
+    }
+  },
+  "openclaw_config": {
+    "mcpServers": {
+      "crawl4ai": {
+        "url": "http://localhost:3000",
+        "enabled": true
+      },
+      "notion": {
+        "url": "http://localhost:3001", 
+        "enabled": true
+      },
+      "email": {
+        "url": "http://localhost:3002",
+        "enabled": true
+      },
+      "business-ops": {
+        "url": "http://localhost:3003",
+        "enabled": true
+      },
+      "research-analysis": {
+        "url": "http://localhost:3004",
+        "enabled": true
+      }
+    },
+    "tools": {
+      "allow": [
+        "crawl4ai:*",
+        "notion:*", 
+        "email:*",
+        "business-ops:*",
+        "research-analysis:*",
+        "browser",
+        "web_search",
+        "web_fetch",
+        "exec"
+      ]
+    }
+  }
+}
