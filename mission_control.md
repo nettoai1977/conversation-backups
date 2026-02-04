@@ -13,6 +13,7 @@ Welcome to the mission control center for Netto.AI. This is your kanban-style ov
 - [x] **Intelligence Monitoring** - Execute daily cron tasks for OpenClaw updates, skills watch, and market research
 - [ ] **MCP Server Implementation** - Deploy filesystem and GitHub MCP servers for enhanced capabilities
 - [ ] **AI Service Bureau Launch** - Begin implementation of AI-powered service offerings
+- [ ] **7-Day Revenue Initiative** - Identify and execute Zero-Investment/Zero-Inventory business (POD/Dropshipping) within 7 days
 
 ## Backlog
 
@@ -47,6 +48,13 @@ Welcome to the mission control center for Netto.AI. This is your kanban-style ov
   - Business Registration: *Human Required*
   - E-commerce Platform Integration: *Human Required*
   - Legal Structure for Business Entity: *Human Required*
+
+- **New Priority: 7-Day Revenue Objective**
+  - Target: Zero-Investment/Zero-Inventory business (Dropshipping or POD)
+  - Timeline: Operational within 7 days
+  - Audience: Global (24/7 sales potential)
+  - Approach: Three low-risk test cases
+  - Velocity: Track progress toward first sale daily
 
 - **God Agent Optimization**
   - Sub-Agent Performance Monitoring: Active
